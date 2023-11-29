@@ -2,7 +2,7 @@
 
 [Coder-Navbar Demo](https://coder-navbar.netlify.app/)
 
-A simple React mini project named "Coder-Navbar" that features a responsive navbar with a toggle functionality for smaller screens. The project is built using Vite for efficient development and better performance.
+A simple React mini project that features a responsive navbar with a toggle functionality for smaller screens. The project is built using Vite for efficient development and better performance.
 ![Alt text](image.png)
 
 ## Live Demo
